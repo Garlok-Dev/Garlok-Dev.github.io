@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    left: 100px;
+}
+p{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    left: 150px;
+    top: 200px;
+}
+a{
+    color: white;
+    font-size: 30px;
+}
+.dwl{
+    position: absolute;
+    left: 450px;
+    top: 110px
+}
+.ats{
+    position: absolute;
+    left: 30px;
+}
