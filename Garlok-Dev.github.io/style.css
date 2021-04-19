@@ -1,0 +1,50 @@
+body{
+    background-color: #000;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    padding-bottom: 20px;
+}
+img{
+    width: 250px;
+    display: block;
+    margin: auto;
+    padding-bottom: 50px;
+}
+p{
+    color: #fff;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    margin-bottom: 50px;
+}
+p a{
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+}
+
+.menu{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Fredoka One', cursive;
+}
+.proyectos{
+    display: block;
+    background-color: rgb(170, 170, 170);
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.proyectos:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 1s;
+}
