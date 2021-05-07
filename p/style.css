@@ -33,7 +33,7 @@ h1{
     max-width: 1000px;
     display: block;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     padding: 50px;
     background-color: rgb(170, 170, 170);
     color: #fff;
@@ -41,6 +41,23 @@ h1{
     font-size: 35px;
 }
 .nes:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 1.5s;
+}
+.descargar-videos-YT{
+    text-align: center;
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 50px;
+    background-color: rgb(170, 170, 170);
+    color: #fff;
+    text-decoration: none;
+    font-size: 35px;
+}
+.descargar-videos-YT:hover{
     background-color: #fff;
     color: #000;
     transition: 1.5s;
