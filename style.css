@@ -1,9 +1,19 @@
 body{
     background-color: #000;
     color: #fff;
-    font-size: 30px;
+    font-size: 30pxv;
 }
 
+/* enlaces */
+a{
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+/* h1 y h2 */
 h1{
     text-align: center;
     font-family: 'Fredoka One', cursive;
@@ -13,27 +23,22 @@ h2{
     font-family: 'Fredoka One', cursive;
     padding-bottom: 20px;
 }
+/* texto */
+p{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* img */
 img{
     width: 250px;
     display: block;
     margin: auto;
     padding-bottom: 50px;
 }
-p{
-    font-family: 'Fredoka One', cursive;
-    text-align: center;
-    margin-bottom: 50px;
-}
-p a{
-    color: rgb(170, 170, 170);
-    text-decoration: none;
-}
 
-.menu{
-    text-align: center;
-    margin-bottom: 50px;
-    font-family: 'Fredoka One', cursive;
-}
+/* proyectos */
 .proyectos{
     background-color: rgb(170, 170, 170);
     padding: 20px;
