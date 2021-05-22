@@ -57,7 +57,8 @@ img{
 }
 
 .proyectos:hover{
-    background-color: #fff;
-    color: #000;
-    transition: 1s;
+	padding: 25px;
+	border: 5px #fff solid;
+	text-decoration: underline;
+	transition: .1s;
 }
