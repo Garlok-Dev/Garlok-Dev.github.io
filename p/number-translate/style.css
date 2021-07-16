@@ -1,0 +1,66 @@
+body{
+    background-color: #000;
+    color: #fff;
+    font-family: 'Fredoka One', cursive;;
+}
+
+/* enlaces */
+a{
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+}
+a:hover{
+    text-decoration: underline;
+}
+
+/* volver */
+i{
+    color: rgb(170, 170, 170);
+}
+.volver{
+    font-size: 30px;
+    width: 220px;
+}
+.volver:hover{
+    text-decoration: underline;
+}
+.volver a{
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+}
+
+/* h1 */
+h1{
+    margin-top: 60px;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+/* texto */
+p{
+    font-size: 30px;
+    text-align: center;
+}
+footer{
+    color: rgb(27, 27, 27);
+    text-align: center;
+}
+
+/* descargar */
+.descargar{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 50px;
+}
+
+/* Responsive */
+@media only screen and (max-width: 611px){
+    img{
+        width: 345px;
+    }
+    footer{
+        font-size: 13px;
+    }
+}
