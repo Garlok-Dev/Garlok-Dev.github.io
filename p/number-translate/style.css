@@ -4,7 +4,7 @@ body{
     font-family: 'Fredoka One', cursive;;
 }
 
-/* enlaces */
+/* links */
 a{
     text-decoration: none;
     color: rgb(170, 170, 170);
@@ -13,18 +13,18 @@ a:hover{
     text-decoration: underline;
 }
 
-/* volver */
+/* back */
 i{
     color: rgb(170, 170, 170);
 }
-.volver{
+.back{
     font-size: 30px;
     width: 220px;
 }
-.volver:hover{
+.back:hover{
     text-decoration: underline;
 }
-.volver a{
+.back a{
     text-decoration: none;
     color: rgb(170, 170, 170);
 }
@@ -37,7 +37,7 @@ h1{
     margin-bottom: 100px;
 }
 
-/* texto */
+/* text */
 p{
     font-size: 30px;
     text-align: center;
@@ -47,8 +47,8 @@ footer{
     text-align: center;
 }
 
-/* descargar */
-.descargar{
+/* download */
+.download{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;

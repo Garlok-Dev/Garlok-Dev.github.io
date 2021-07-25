@@ -4,7 +4,7 @@ body{
     font-family: 'Fredoka One', cursive;;
 }
 
-/* URLs */
+/* enlaces */
 a{
     text-decoration: none;
     color: rgb(170, 170, 170);
@@ -13,7 +13,7 @@ a:hover{
     text-decoration: underline;
 }
 
-/* Back */
+/* volver */
 i{
     color: rgb(170, 170, 170);
 }
@@ -37,16 +37,23 @@ h1{
     margin-bottom: 100px;
 }
 
-/* text */
+/* texto */
 p{
     font-size: 30px;
     text-align: center;
 }
 
-/* download */
+/* descargar */
 .download{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
     font-size: 50px;
+}
+
+/*responsive*/
+@media only screen and (max-width: 600px){
+    h1{
+        font-size: 50px;
+    }
 }
